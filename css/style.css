@@ -218,7 +218,7 @@ button {
     display: flex;
     background-color: #0cb7d6;
     height: auto;
-    padding: 20px 0px;
+    padding: 10px 0px;
 }
 
 .header_top_main {
@@ -483,7 +483,7 @@ button {
     background-color: #ffffff;
     padding: 40px;
     position: relative;
-    top: -170px;
+    top: -60px;
     box-shadow: 0px 0px 10px 0px;
 }
 
